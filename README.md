@@ -1,3 +1,5 @@
+# FastAPI Simple Expense Tracker
+
 It is a simple expense tracker by using FastAPI with JWT authentication.
 Balance can be added by post balance.
 Expense can be created, viewed, updated and deleted and balance will be updated accordingly.
